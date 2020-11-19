@@ -1,0 +1,2 @@
+# VanillaJS
+some mini project
